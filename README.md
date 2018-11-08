@@ -1,2 +1,2 @@
 # hello-world
-As always, start with Hello World
+As always, starting with a Hello World for this test repo
